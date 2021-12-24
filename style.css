@@ -1,0 +1,63 @@
+body {background-image: url(./images/pattern-background-desktop.svg);
+     background-repeat: no-repeat;
+    background-color: #E8F6EF;
+    background-attachment: fixed;
+}
+
+h4 {
+    padding-top: 3px;
+}
+
+p {
+    font-size: small;
+}
+
+.attribution {
+    font-size: 10px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    margin: auto;
+    position: relative;
+    top: 3rem;
+    width: 20rem;
+    text-align: center;
+    border-radius: 20px;
+    overflow:visible;
+
+}
+
+.pricing {
+    padding: 1rem;
+    padding-bottom: 3px;
+    font-size: small;
+    border-radius: 5%;
+    background-color: #EEEEEE;
+}
+
+.img {
+    width: 2rem;
+    float: left;
+    position: relative;
+    top: .5rem;
+}
+
+.price {
+    position: relative;
+    right: 2rem;
+}
+
+.Change {
+    position: relative;
+    left: 5rem;
+    bottom: 2rem;
+}
+
+.btn-payment {
+    margin: 1rem;
+}
